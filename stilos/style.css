@@ -1,0 +1,17 @@
+.img-empresa img{
+
+    width: 100%;
+}
+
+.noticias{
+    background-color: blue;
+}
+
+.texto{
+    background-color:wheat;
+}
+
+.final{
+    background-color: rgb(243, 201, 15);
+    text-align: center;
+}
